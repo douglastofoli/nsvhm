@@ -15,7 +15,7 @@ directory. I prefer /usr/bin.
 ```bash
 wget https://raw.githubusercontent.com/bosha/nsvhm/master/nsvhm
 chmod +x
-mv nvshm /usr/bin
+mv nsvhm /usr/bin
 ```
 
 You can set SUID bit on script, but I don't recomend do this because I not
